@@ -1,2 +1,1 @@
-image
 ImageNet format dataset
